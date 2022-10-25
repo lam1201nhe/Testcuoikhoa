@@ -1,0 +1,48 @@
+/* input {
+    width: 17px;
+    height: 17px;
+} */
+
+ul{
+    margin-top: 10px;
+}
+
+li {
+    color: #E26868;
+    font-style: bold;
+    font-size: 20px;
+    list-style-type: none;
+    
+}
+
+input {
+    border: none;
+    background-color: #232931;
+    width: 90%;
+    height: 30px;
+    margin: 0px 10px;
+    color: white;
+}
+
+hr{
+    margin-top: 10px;
+}
+
+button {
+    font-size: 15px;
+    font-weight: bold;
+   
+
+}
+
+li:hover {
+    text-decoration: line-through;
+}
+
+.ListTodo {
+    margin: 15px 0px 0px 5px;
+
+
+
+}
+

@@ -13,7 +13,7 @@ function adjacentElementsProduct(inputArray){
 
 console.log(adjacentElementsProduct(inputArray));
 
-//bai2:
+//bai2:aaaa
 const array = [60, 40, 55, 75, 64];
 
 function alternatingSums(a) {
